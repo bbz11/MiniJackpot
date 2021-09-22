@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiniJackpot", "MiniJackpot\MiniJackpot.csproj", "{93140552-195E-42D8-A7CB-70F0EA5DDBBB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EB971DF8-17D4-420F-BC90-B754BFD32355}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\jackpot_table.jpg = ..\..\jackpot_table.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93140552-195E-42D8-A7CB-70F0EA5DDBBB}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{93140552-195E-42D8-A7CB-70F0EA5DDBBB}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{93140552-195E-42D8-A7CB-70F0EA5DDBBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93140552-195E-42D8-A7CB-70F0EA5DDBBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76B31E21-0181-4198-9750-88746E3C4265}
+	EndGlobalSection
+EndGlobal
